@@ -1,4 +1,19 @@
-# Analisis_Datos_PowerBI
+# Análisis_Datos_PowerBI
+
+Este repositorio presenta una colección de visualizaciones interactivas desarrolladas en Power BI, centradas en el análisis de distintos conjuntos de datos empresariales. A través de estos dashboards, se abordan diversas problemáticas y se responde a preguntas clave orientadas a la toma de decisiones estratégicas.
+Cada proyecto muestra el uso de herramientas de inteligencia de negocios como:
+
+Modelado y limpieza de datos.
+
+Creación de relaciones entre tablas.
+
+Métricas DAX personalizadas.
+
+Segmentación y filtros dinámicos.
+
+Visualizaciones como gráficos de barras, mapas, matrices, KPI cards y más.
+
+A continuación, se presenta una tabla con una vista previa de cada proyecto acompañado de una breve descripción de los análisis realizados. Algunas descripciones incluyen preguntas de análisis y sus respectivas respuestas extraídas directamente de la exploración de los datos.
 
 | Imagen | Descripción |
 |--------|-------------|
